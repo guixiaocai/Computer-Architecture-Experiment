@@ -1,6 +1,6 @@
 # Computer-Architecture-Experiment
 It's computer architecture experiment in UCAS.
-The total experiment includes 6 labs:
+The total experiment includes 6 labs:\n
 1.multi-cycle CPU
 2.MIPS CPU with 5 level static pipeline
 3.assembly coding task --- an electronic clock
